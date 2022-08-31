@@ -16,5 +16,10 @@ This will help you further practice adding classes and using class selectors, so
 
 ### Self Check
 - Does each element have a unique class name?
+  - Now, yes.
+  - I started by giving both buttons the first class "button", and the second class of "first" or "second" for each of the corresponding elements. Then I created a rule for .button, .button.first, and .button.right .
+  - Then I reread the assignment and understood what was expect. So, I changed everything.
 - Did you use the grouping selector for styles that both elements share?
+  - Yes. ".first, .second"
 - Did you make separate rules for the styles unique to each element?
+  - Yes.
